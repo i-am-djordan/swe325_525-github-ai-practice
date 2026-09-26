@@ -14,4 +14,9 @@
 
 # Merge or reposity-history URL:
 
+# Things that I need to update still:
 
+Links to the three meaningful commits.
+Pull-request URL.
+Merge or repository-history URL.
+A short explanation of how the issue, branch, commits, review, and pull request relate to one another
